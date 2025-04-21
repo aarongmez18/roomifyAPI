@@ -1,4 +1,4 @@
-package com.back.roomifyAPI.config;
+package com.back.roomify.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
